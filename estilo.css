@@ -1,0 +1,47 @@
+#main {
+    background-color: #7c7c7c;
+    font-family: arial;
+    padding: 15px;
+    border: solid 2px black;
+    border-radius: 5px;
+  }
+  
+  #title {
+    font-family: Helvetica;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  #subtitulo {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+  }
+  
+  img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+    border: solid 2px black;
+  }
+  
+  h2 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .link {
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 30px;
+  }
+  #biografia {
+    text-align: center;
+  }
+  
